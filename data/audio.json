@@ -1,0 +1,8 @@
+{
+ "days": {
+  "2026-11-20": "audio/2026-11-20.m4a"
+ },
+ "voice": "af_heart",
+ "engine": "Kokoro-82M (Apache-2.0)",
+ "updated": "2026-11-20T19:43:56Z"
+}
