@@ -1,0 +1,55 @@
+{
+"asOf": "2026-11-21",
+"events": [
+{
+"date": "2026-11-23",
+"what": "Board meeting",
+"company": "Dalmia Bharat Limited",
+"symbol": "DALBHARAT",
+"title": "Dalmia Bharat to consider share buyback at Nov 23 board meeting.",
+"source": "Economic Times",
+"url": "https://economictimes.indiatimes.com/markets/stocks/news/dalmia-bharat-to-consider-share-buyback-at-nov-23-board-meeting/articleshow/135966836.cms",
+"seen": "2026-11-19"
+},
+{
+"date": "2026-11-24",
+"what": "Market holiday",
+"title": "NSE and BSE closed for Guru Nanak Jayanti",
+"source": "NSE circular 54/2025 (trading holidays 2026)",
+"url": "https://nsearchives.nseindia.com/content/circulars/FAOP71777.pdf",
+"company": null,
+"symbol": null,
+"seen": null
+},
+{
+"date": "2026-12-04",
+"what": "Policy",
+"title": "RBI monetary policy decision (MPC meets 2 to 4 December)",
+"source": "Reserve Bank of India",
+"url": "https://www.rbi.org.in/Scripts/Annualpolicy.aspx",
+"company": null,
+"symbol": null,
+"seen": null
+},
+{
+"date": "2026-12-09",
+"what": "Policy",
+"title": "US Fed rate decision (FOMC meets 8 to 9 December; dates tentative until confirmed)",
+"source": "Federal Reserve",
+"url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+"company": null,
+"symbol": null,
+"seen": null
+},
+{
+"date": "2026-12-25",
+"what": "Market holiday",
+"title": "NSE and BSE closed for Christmas",
+"source": "NSE circular 54/2025 (trading holidays 2026)",
+"url": "https://nsearchives.nseindia.com/content/circulars/FAOP71777.pdf",
+"company": null,
+"symbol": null,
+"seen": null
+}
+]
+}
