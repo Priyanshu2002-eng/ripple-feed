@@ -1,0 +1,51 @@
+{
+ "updated": "2026-11-21",
+ "keep_days": 30,
+ "items": [
+  {
+   "id": "oaktree-layman-ai",
+   "shelf": "read",
+   "title": "A Layman Thinks About AI",
+   "publisher": "Oaktree Capital (Howard Marks)",
+   "date": "2026-11-11",
+   "url": "https://www.oaktreecapital.com/insights/memo/a-layman-thinks-about-ai",
+   "why": "AI stocks drove this week's Nasdaq sell-off; Marks lays out the questions investors keep skipping.",
+   "note": [
+    "Howard Marks's newest memo works through 11 questions around investing in AI, from who profits to what it means for credit markets.",
+    "His point: the answers are uncertain, but AI matters too much to ignore."
+   ],
+   "pic": "th-ai",
+   "added": "2026-11-21"
+  },
+  {
+   "id": "nyfed-dw-stigma",
+   "shelf": "research",
+   "title": "Does the Stock Market Stigmatize Banks that Borrow from the Fed?",
+   "publisher": "New York Fed, Liberty Street Economics",
+   "date": "2026-11-17",
+   "url": "https://libertystreeteconomics.newyorkfed.org/2026/11/does-the-stock-market-stigmatize-banks-that-borrow-from-the-fed/",
+   "why": "Banks led this week's rally in India; this asks whether borrowing from a central bank in a crunch makes investors more nervous about a bank.",
+   "note": [
+    "New York Fed economists track how stock investors judged banks that first borrowed from the Fed during the 2023 bank run.",
+    "After a first trip to the Fed's discount window, investors grew more sensitive to that bank's weak spots."
+   ],
+   "pic": "th-macro",
+   "added": "2026-11-21"
+  },
+  {
+   "id": "cf-paraguay-bank",
+   "shelf": "watch",
+   "title": "How 3 Million People Got Locked Out of their Bank",
+   "publisher": "ColdFusion",
+   "date": "2026-11-13",
+   "url": "https://www.youtube.com/watch?v=pjNnDQgAvOw",
+   "why": "A short case study in what happens when a bank's systems fail its customers.",
+   "note": [
+    "ColdFusion looks at how millions of people in Paraguay were locked out of their bank accounts in November 2026, and what went wrong."
+   ],
+   "pic": "coldfusion",
+   "added": "2026-11-21"
+  }
+ ],
+ "archive": []
+}

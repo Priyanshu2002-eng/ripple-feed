@@ -1,5 +1,5 @@
 {
-"asOf": "2026-11-21",
+"asOf": "2026-11-22",
 "events": [
 {
 "date": "2026-11-23",
@@ -20,6 +20,26 @@
 "company": null,
 "symbol": null,
 "seen": null
+},
+{
+"date": "2026-11-26",
+"what": "Board meeting",
+"company": "Patanjali Foods Limited",
+"symbol": "PATANJALI",
+"title": "Patanjali Foods dividend 2026 announcement news: Board to consider 2nd interim dividend on Nov 26 - Check history, yield.",
+"source": "Mint",
+"url": "https://www.livemint.com/market/stock-market-news/patanjali-foods-dividend-2026-announcement-news-board-to-consider-2nd-interim-dividend-on-nov-26-check-history-yield-11795248708675.html",
+"seen": "2026-11-22"
+},
+{
+"date": "2026-11-26",
+"what": "Dividend",
+"company": "Patanjali Foods Limited",
+"symbol": "PATANJALI",
+"title": "Patanjali Foods will meet on November 26, 2026, to consider and approve a second interim dividend for FY27.",
+"source": "Mint",
+"url": "https://www.livemint.com/market/stock-market-news/patanjali-foods-dividend-2026-announcement-news-board-to-consider-2nd-interim-dividend-on-nov-26-check-history-yield-11795248708675.html",
+"seen": "2026-11-22"
 },
 {
 "date": "2026-12-04",
