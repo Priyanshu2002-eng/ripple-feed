@@ -1,26 +1,6 @@
 {
-"asOf": "2026-11-22",
+"asOf": "2026-11-26",
 "events": [
-{
-"date": "2026-11-23",
-"what": "Board meeting",
-"company": "Dalmia Bharat Limited",
-"symbol": "DALBHARAT",
-"title": "Dalmia Bharat to consider share buyback at Nov 23 board meeting.",
-"source": "Economic Times",
-"url": "https://economictimes.indiatimes.com/markets/stocks/news/dalmia-bharat-to-consider-share-buyback-at-nov-23-board-meeting/articleshow/135966836.cms",
-"seen": "2026-11-19"
-},
-{
-"date": "2026-11-24",
-"what": "Market holiday",
-"title": "NSE and BSE closed for Guru Nanak Jayanti",
-"source": "NSE circular 54/2025 (trading holidays 2026)",
-"url": "https://nsearchives.nseindia.com/content/circulars/FAOP71777.pdf",
-"company": null,
-"symbol": null,
-"seen": null
-},
 {
 "date": "2026-11-26",
 "what": "Board meeting",

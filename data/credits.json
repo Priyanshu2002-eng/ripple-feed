@@ -1,21 +1,15 @@
 [
 {
-"what": "Shipping picture",
-"by": "Captain Albert E. Theberge, NOAA Corps (ret.)",
-"license": "Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Line3174_-_Shipping_Containers_at_the_terminal_at_Port_Elizabeth,_New_Jersey_-_NOAA.jpg"
+"what": "Bear picture",
+"by": "Thomas Richter/user:THOMAS",
+"license": "CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Bull_and_bear.jpg"
 },
 {
-"what": "Bank picture",
-"by": "Syced",
-"license": "CC0",
-"page": "https://commons.wikimedia.org/wiki/File:ATM_in_Mizuho_bank.jpg"
-},
-{
-"what": "Usfed picture",
-"by": "Federalreserve",
+"what": "Exchange picture",
+"by": "Carol M. Highsmith",
 "license": "Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:US_Federal_Reserve_Eccles_Building_1937.jpg"
+"page": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_trading_floor_on_Wall_Street,_New_York,_New_York_LCCN2011634218.tif"
 },
 {
 "what": "Jewellery picture",
@@ -24,34 +18,28 @@
 "page": "https://commons.wikimedia.org/wiki/File:Bridal_gold_jewellery_in_Bangladeshi_wedding.jpg"
 },
 {
-"what": "Centralbank picture",
-"by": "Subhrasingh",
-"license": "CC BY-SA 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:RBI_Bhubaneswar.jpg"
+"what": "Markets picture",
+"by": "Wikimedia Commons",
+"license": "CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Dalal_street.JPG"
+},
+{
+"what": "Crypto picture",
+"by": "Satheesh Sankaran",
+"license": "CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Bitcoin_on_Laptop_Keyboard.jpg"
 },
 {
 "what": "Deal picture",
-"by": "Lowdown",
-"license": "CC BY-SA 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Signing_a_contract_between_partner_cities_Sanok_and_Truskavets_(2023)g.jpg"
-},
-{
-"what": "Gold picture",
-"by": "Ibex73",
-"license": "CC BY 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Gold_ingot_and_bar_of_Banque_de_France.jpg"
-},
-{
-"what": "Power picture",
-"by": "Novoklimov",
+"by": "rawpixel.com",
 "license": "CC0",
-"page": "https://commons.wikimedia.org/wiki/File:Anchor_pylon_of_high-voltage_overhead_power_line_750_kV.jpg"
+"page": "https://commons.wikimedia.org/wiki/File:Business_agreement_handshake_at_coffee_shop.jpg"
 },
 {
-"what": "Telecom picture",
-"by": "David Castor (dcastor)",
+"what": "Metals picture",
+"by": "Stanley Kubrick",
 "license": "Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:BT_Tower-1.jpg"
+"page": "https://commons.wikimedia.org/wiki/File:Stanley_Kubrick_-_Steelworker_with_molten_steel_cph.3d02358.jpg"
 },
 {
 "what": "Defence picture",
@@ -60,34 +48,46 @@
 "page": "https://commons.wikimedia.org/wiki/File:F-15_vertical_deploy.jpg"
 },
 {
-"what": "Rupee picture",
-"by": "Jnunoferreira",
-"license": "CC BY 3.0",
-"page": "https://commons.wikimedia.org/wiki/File:Some_Coins_(20823589).jpeg"
-},
-{
-"what": "Rupee picture",
-"by": "Billjones94",
+"what": "Centralbank picture",
+"by": "Subhrasingh",
 "license": "CC BY-SA 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Security_edges_of_the_Indian_5_Rupee_coins.jpg"
+"page": "https://commons.wikimedia.org/wiki/File:RBI_Bhubaneswar.jpg"
 },
 {
-"what": "Ipo picture",
-"by": "Official Navy Page from United States of America Casey H. Ky",
-"license": "Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Flickr_-_Official_U.S._Navy_Imagery_-_A_bell-ringing_ceremony..jpg"
-},
-{
-"what": "Bear picture",
-"by": "Thomas Richter/user:THOMAS",
+"what": "Centralbank picture",
+"by": "Gppande",
 "license": "CC BY-SA 3.0",
-"page": "https://commons.wikimedia.org/wiki/File:Bull_and_bear.jpg"
+"page": "https://commons.wikimedia.org/wiki/File:Nagpur_Reserve_Bank.JPG"
 },
 {
-"what": "Gold picture",
-"by": "Snd3054",
+"what": "Deal picture",
+"by": "Lowdown",
+"license": "CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Signing_a_contract_between_partner_cities_Sanok_and_Truskavets_(2023)g.jpg"
+},
+{
+"what": "Telecom picture",
+"by": "David Castor (dcastor)",
+"license": "Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:BT_Tower-1.jpg"
+},
+{
+"what": "Pharma picture",
+"by": "Yinan Chen",
+"license": "Public Domain",
+"page": "https://commons.wikimedia.org/wiki/File:Gfp-medicine-container-and-medicine-tablet.jpg"
+},
+{
+"what": "China picture",
+"by": "Ermell",
 "license": "CC0",
-"page": "https://commons.wikimedia.org/wiki/File:Branch_Mint_Sovereigns.jpg"
+"page": "https://commons.wikimedia.org/wiki/File:Shanghai_skyline_waterfront_pudong_5166168_69_70.jpg"
+},
+{
+"what": "Exchange picture",
+"by": "Jnpet",
+"license": "CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:National_Stock_exchange_Mumbai.JPG"
 },
 {
 "what": "Gold picture",
@@ -96,10 +96,124 @@
 "page": "https://commons.wikimedia.org/wiki/File:Gold_Ingots_on_white_background.jpg"
 },
 {
+"what": "Farm picture",
+"by": "Yann (talk)",
+"license": "CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Ploughing_paddy_field_with_oxen,_Umaria_district,_MP,_India.jpg"
+},
+{
+"what": "Fmcg picture",
+"by": "Dorothea Lange",
+"license": "Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Grocery-store-widtsoe-utah-.jpg"
+},
+{
+"what": "Bank picture",
+"by": "Syced",
+"license": "CC0",
+"page": "https://commons.wikimedia.org/wiki/File:ATM_in_Mizuho_bank.jpg"
+},
+{
+"what": "Rupee picture",
+"by": "Billjones94",
+"license": "CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Security_edges_of_the_Indian_5_Rupee_coins.jpg"
+},
+{
+"what": "Exchange picture",
+"by": "Ank Kumar",
+"license": "CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Frankfurt_Stock_Exchange_(Ank_Kumar)_08.jpg"
+},
+{
+"what": "Rupee picture",
+"by": "Monito - Money Transfer Comparison",
+"license": "CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Indian_100_and_2000_rupee_notes_(32190943222).jpg"
+},
+{
+"what": "Gold picture",
+"by": "Snd3054",
+"license": "CC0",
+"page": "https://commons.wikimedia.org/wiki/File:Branch_Mint_Sovereigns.jpg"
+},
+{
+"what": "Markets picture",
+"by": "Nick Gray",
+"license": "CC BY-SA 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Dalal_Street_sign.jpg"
+},
+{
+"what": "Power picture",
+"by": "Novoklimov",
+"license": "CC0",
+"page": "https://commons.wikimedia.org/wiki/File:Anchor_pylon_of_high-voltage_overhead_power_line_750_kV.jpg"
+},
+{
 "what": "Aichip picture",
 "by": "Enrique Jiménez",
 "license": "CC BY-SA 2.0",
 "page": "https://commons.wikimedia.org/wiki/File:Silicon_Wafer_20190210.jpg"
+},
+{
+"what": "Exchange picture",
+"by": "Ganesh Dhamodkar",
+"license": "CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:National_Stock_Exchange_NSE_India.jpg"
+},
+{
+"what": "Deal picture",
+"by": "perzon seo",
+"license": "CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Business_man_and_woman_handshake_in_work_office.jpg"
+},
+{
+"what": "Ipo picture",
+"by": "Official Navy Page from United States of America Casey H. Ky",
+"license": "Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Flickr_-_Official_U.S._Navy_Imagery_-_A_bell-ringing_ceremony..jpg"
+},
+{
+"what": "Gold picture",
+"by": "Ibex73",
+"license": "CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Gold_ingot_and_bar_of_Banque_de_France.jpg"
+},
+{
+"what": "Exchange picture",
+"by": "Ank Kumar",
+"license": "CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Frankfurt_Stock_Exchange_(Ank_Kumar)_02.jpg"
+},
+{
+"what": "Bank picture",
+"by": "P199",
+"license": "Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Bank_vault_1901.jpg"
+},
+{
+"what": "Markets picture",
+"by": "Bhai Vir Singh (digitized by Bhai Vir Singh Sahitya Sadan, N",
+"license": "Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Front_page_of_the_first_issue_of_the_Khalsa_Samchar,_a_weekly_Sikh_newspaper_founded_by_Bhai_Vir_Singh,_17_November_1899_issue.jpg"
+},
+{
+"what": "Rupee picture",
+"by": "Jnunoferreira",
+"license": "CC BY 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Some_Coins_(20823589).jpeg"
+},
+{
+"what": "Aichip picture",
+"by": "YouTube — Purdue Engineering",
+"license": "CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:A_semiconductor_wafer_being_removed_from_processing_equipment.jpg"
+},
+{
+"what": "Auto picture",
+"by": "Siyuwj",
+"license": "CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Geely_assembly_line_in_Beilun,_Ningbo.JPG"
 },
 {
 "what": "Aichip picture",
@@ -109,45 +223,9 @@
 },
 {
 "what": "Deal picture",
-"by": "perzon seo",
-"license": "CC BY 2.0",
-"page": "https://commons.wikimedia.org/wiki/File:Business_man_and_woman_handshake_in_work_office.jpg"
-},
-{
-"what": "Realty picture",
-"by": "Cmasi",
-"license": "CC0",
-"page": "https://commons.wikimedia.org/wiki/File:Apartment_bldgs_162635.jpg"
-},
-{
-"what": "Deal picture",
-"by": "rawpixel.com",
-"license": "CC0",
-"page": "https://commons.wikimedia.org/wiki/File:Business_agreement_handshake_at_coffee_shop.jpg"
-},
-{
-"what": "Bank picture",
-"by": "P199",
-"license": "Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Bank_vault_1901.jpg"
-},
-{
-"what": "Fmcg picture",
-"by": "Dorothea Lange",
-"license": "Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Grocery-store-widtsoe-utah-.jpg"
-},
-{
-"what": "Aichip picture",
-"by": "YouTube — Purdue Engineering",
+"by": "Wikimedia Commons",
 "license": "CC BY 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:A_semiconductor_wafer_being_removed_from_processing_equipment.jpg"
-},
-{
-"what": "Centralbank picture",
-"by": "Harris &amp; Ewing, photographer",
-"license": "Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:New_Federal_Reserve_Building_taken_from_the_Munitions_Building_LCCN2016872241.jpg"
+"page": "https://commons.wikimedia.org/wiki/File:A_contract_signing_1936_(JOKAKAL3B-2991).tif"
 },
 {
 "what": "Infra picture",
@@ -156,82 +234,28 @@
 "page": "https://commons.wikimedia.org/wiki/File:Road_building-Hungary-1.jpg"
 },
 {
-"what": "Bonds picture",
-"by": "The original uploader was Centpacrr at English Wikipedia.",
-"license": "Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Pacific_RR_Bond_SF_1865.jpeg"
-},
-{
-"what": "Rupee picture",
-"by": "Monito - Money Transfer Comparison",
-"license": "CC BY 2.0",
-"page": "https://commons.wikimedia.org/wiki/File:Indian_100_and_2000_rupee_notes_(32190943222).jpg"
-},
-{
 "what": "Auto picture",
 "by": "Unknown authorUnknown author",
 "license": "Public domain",
 "page": "https://commons.wikimedia.org/wiki/File:Ford_factory_LaBoca.jpg"
 },
 {
-"what": "Exchange picture",
-"by": "Carol M. Highsmith",
+"what": "Shipping picture",
+"by": "Captain Albert E. Theberge, NOAA Corps (ret.)",
 "license": "Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_trading_floor_on_Wall_Street,_New_York,_New_York_LCCN2011634218.tif"
+"page": "https://commons.wikimedia.org/wiki/File:Line3174_-_Shipping_Containers_at_the_terminal_at_Port_Elizabeth,_New_Jersey_-_NOAA.jpg"
 },
 {
-"what": "Cement picture",
-"by": "Fons Heijnsbroek",
+"what": "Realty picture",
+"by": "Cmasi",
 "license": "CC0",
-"page": "https://commons.wikimedia.org/wiki/File:Amsterdam_photo_of_construction_cranes_2016,_free_download;_view_on_the_construction_sites_of_the_future_Pontsteiger_and_residential_area_Houthavens._Fons_Heijnsbroek,_street_photography_of_The_Netherlands_in_high_resolution;_free_image.tif"
-},
-{
-"what": "Deal picture",
-"by": "Wikimedia Commons",
-"license": "CC BY 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:A_contract_signing_1936_(JOKAKAL3B-2991).tif"
-},
-{
-"what": "Exchange picture",
-"by": "Jnpet",
-"license": "CC BY-SA 3.0",
-"page": "https://commons.wikimedia.org/wiki/File:National_Stock_exchange_Mumbai.JPG"
+"page": "https://commons.wikimedia.org/wiki/File:Apartment_bldgs_162635.jpg"
 },
 {
 "what": "Centralbank picture",
-"by": "Gppande",
-"license": "CC BY-SA 3.0",
-"page": "https://commons.wikimedia.org/wiki/File:Nagpur_Reserve_Bank.JPG"
-},
-{
-"what": "Exchange picture",
-"by": "Ank Kumar",
-"license": "CC BY-SA 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Frankfurt_Stock_Exchange_(Ank_Kumar)_02.jpg"
-},
-{
-"what": "Exchange picture",
-"by": "Ank Kumar",
-"license": "CC BY-SA 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Frankfurt_Stock_Exchange_(Ank_Kumar)_08.jpg"
-},
-{
-"what": "Markets picture",
-"by": "Bhai Vir Singh (digitized by Bhai Vir Singh Sahitya Sadan, N",
+"by": "Harris &amp; Ewing, photographer",
 "license": "Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Front_page_of_the_first_issue_of_the_Khalsa_Samchar,_a_weekly_Sikh_newspaper_founded_by_Bhai_Vir_Singh,_17_November_1899_issue.jpg"
-},
-{
-"what": "Pharma picture",
-"by": "Yinan Chen",
-"license": "Public Domain",
-"page": "https://commons.wikimedia.org/wiki/File:Gfp-medicine-container-and-medicine-tablet.jpg"
-},
-{
-"what": "Metals picture",
-"by": "Stanley Kubrick",
-"license": "Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Stanley_Kubrick_-_Steelworker_with_molten_steel_cph.3d02358.jpg"
+"page": "https://commons.wikimedia.org/wiki/File:New_Federal_Reserve_Building_taken_from_the_Munitions_Building_LCCN2016872241.jpg"
 },
 {
 "what": "Solar picture",
@@ -240,10 +264,16 @@
 "page": "https://commons.wikimedia.org/wiki/File:Solar_panels_in_Talitsa_001.jpg"
 },
 {
-"what": "Bank picture",
-"by": "Mutney",
-"license": "CC BY-SA 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Counter,_NatWest_bank,_Market_Street,_Falmouth,_Cornwall_-_August_2022.jpg"
+"what": "Bull picture",
+"by": "Hans Eiskonen eiskonen",
+"license": "CC0",
+"page": "https://commons.wikimedia.org/wiki/File:Bull_statue_(Unsplash).jpg"
+},
+{
+"what": "Inflation picture",
+"by": "Joachim Beuckelaer",
+"license": "Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Joachim_Beuckelaer_-_Groentemarkt_-_5045_-_Royal_Museum_of_Fine_Arts_Antwerp.jpg"
 },
 {
 "what": "Exchange picture",
@@ -252,40 +282,28 @@
 "page": "https://commons.wikimedia.org/wiki/File:Tickers_(8085342806).jpg"
 },
 {
-"what": "Exchange picture",
-"by": "Ganesh Dhamodkar",
+"what": "Usfed picture",
+"by": "Federalreserve",
+"license": "Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:US_Federal_Reserve_Eccles_Building_1937.jpg"
+},
+{
+"what": "Bank picture",
+"by": "Mutney",
 "license": "CC BY-SA 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:National_Stock_Exchange_NSE_India.jpg"
+"page": "https://commons.wikimedia.org/wiki/File:Counter,_NatWest_bank,_Market_Street,_Falmouth,_Cornwall_-_August_2022.jpg"
 },
 {
-"what": "China picture",
-"by": "Ermell",
+"what": "Cement picture",
+"by": "Fons Heijnsbroek",
 "license": "CC0",
-"page": "https://commons.wikimedia.org/wiki/File:Shanghai_skyline_waterfront_pudong_5166168_69_70.jpg"
+"page": "https://commons.wikimedia.org/wiki/File:Amsterdam_photo_of_construction_cranes_2016,_free_download;_view_on_the_construction_sites_of_the_future_Pontsteiger_and_residential_area_Houthavens._Fons_Heijnsbroek,_street_photography_of_The_Netherlands_in_high_resolution;_free_image.tif"
 },
 {
-"what": "BSE photo",
-"by": "Niyantha",
-"license": "BY 2.0",
-"page": "https://www.flickr.com/photos/10038095@N02/2134853158"
-},
-{
-"what": "Axis Bank photo",
-"by": "Jagseer01",
-"license": "BY-SA 4.0",
-"page": "https://commons.wikimedia.org/w/index.php?curid=73047559"
-},
-{
-"what": "State Bank of India photo",
-"by": "Dr. Chinchu C.",
-"license": "BY-SA 3.0",
-"page": "https://commons.wikimedia.org/w/index.php?curid=191281466"
-},
-{
-"what": "Infosys photo",
-"by": "Wonderlane",
-"license": "BY 2.0",
-"page": "https://www.flickr.com/photos/71401718@N00/6677715763"
+"what": "Bonds picture",
+"by": "The original uploader was Centpacrr at English Wikipedia.",
+"license": "Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Pacific_RR_Bond_SF_1865.jpeg"
 },
 {
 "what": "Nasdaq photo",
@@ -300,34 +318,28 @@
 "page": "https://commons.wikimedia.org/wiki/File:RELIANCE_PETROL_PUMP_-_panoramio.jpg"
 },
 {
-"what": "HDFC Bank photo",
-"by": "Openbook10",
-"license": "BY-SA 4.0",
-"page": "https://commons.wikimedia.org/w/index.php?curid=155063154"
-},
-{
-"what": "Canara Bank photo",
-"by": "Srinibugs",
-"license": "CC BY-SA 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Canara_Bank_Head_Office_Bengaluru.jpg"
-},
-{
-"what": "HCL Technologies Limited photo",
-"by": "Mohit Agarwal",
-"license": "CC BY-SA 3.0",
-"page": "https://commons.wikimedia.org/wiki/File:HCL_Tech_Noida_SEZ_Campus.png"
-},
-{
-"what": "ICICI Bank photo",
-"by": "Ian Muttoo",
-"license": "BY-SA 2.0",
-"page": "https://www.flickr.com/photos/20741443@N00/1187617235"
-},
-{
 "what": "Dalmia Bharat photo",
 "by": "imjayantanath",
 "license": "PDM 1.0",
 "page": "https://www.flickr.com/photos/188464457@N03/49911775852"
+},
+{
+"what": "Paytm photo",
+"by": "Sasha India",
+"license": "BY-SA 2.0",
+"page": "https://www.flickr.com/photos/35385832@N05/41990198900"
+},
+{
+"what": "Nvidia photo",
+"by": "willbuckner",
+"license": "BY 2.0",
+"page": "https://www.flickr.com/photos/160344139@N02/50591924966"
+},
+{
+"what": "HDFC Bank photo",
+"by": "Openbook10",
+"license": "BY-SA 4.0",
+"page": "https://commons.wikimedia.org/w/index.php?curid=155063154"
 },
 {
 "what": "Tata Consultancy Services Limited photo",
@@ -336,9 +348,51 @@
 "page": "https://commons.wikimedia.org/wiki/File:TCS_SIPCOT_Building.jpg"
 },
 {
-"what": "Paytm photo",
-"by": "Sasha India",
+"what": "State Bank of India photo",
+"by": "Dr. Chinchu C.",
+"license": "BY-SA 3.0",
+"page": "https://commons.wikimedia.org/w/index.php?curid=191281466"
+},
+{
+"what": "Canara Bank photo",
+"by": "Srinibugs",
+"license": "CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Canara_Bank_Head_Office_Bengaluru.jpg"
+},
+{
+"what": "Punjab National Bank photo",
+"by": "Dinesh.jangra1",
+"license": "BY-SA 3.0",
+"page": "https://commons.wikimedia.org/w/index.php?curid=29474591"
+},
+{
+"what": "ICICI Bank photo",
+"by": "Ian Muttoo",
 "license": "BY-SA 2.0",
-"page": "https://www.flickr.com/photos/35385832@N05/41990198900"
+"page": "https://www.flickr.com/photos/20741443@N00/1187617235"
+},
+{
+"what": "HCL Technologies Limited photo",
+"by": "Mohit Agarwal",
+"license": "CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:HCL_Tech_Noida_SEZ_Campus.png"
+},
+{
+"what": "Axis Bank photo",
+"by": "Jagseer01",
+"license": "BY-SA 4.0",
+"page": "https://commons.wikimedia.org/w/index.php?curid=73047559"
+},
+{
+"what": "BSE photo",
+"by": "Niyantha",
+"license": "BY 2.0",
+"page": "https://www.flickr.com/photos/10038095@N02/2134853158"
+},
+{
+"what": "Infosys photo",
+"by": "Wonderlane",
+"license": "BY 2.0",
+"page": "https://www.flickr.com/photos/71401718@N00/6677715763"
 }
 ]
